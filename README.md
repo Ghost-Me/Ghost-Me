@@ -38,7 +38,7 @@ For businesses, Ghost Me can be used as a key tool for testing location-based fe
   <a href="https://instagram.com/getghostme">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/static/v1?label=Stage&message=Alpha&color=2BB4AB" />
+  <img src="https://img.shields.io/static/v1?label=Stage&message=Beta&color=2BB4AB" />
   <br />
 </p>
 
