@@ -9,7 +9,7 @@
   <p align="center">
   Hide your GPS Location
     <br />
-    <a href="https://ghostme.app"><strong>ghostme.app »</strong></a>
+    <a href="https://ghostme.app"><strong>getghostme.com »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Ghost-Me/GhostMe/releases" target="_blank">
@@ -27,9 +27,8 @@ Ghost Me is a desktop application designed to keep your GPS location hidden on i
 
 > NOTE: Ghost Me is under active development, most of the listed features are still experimental and subject to change.
 
-Keep your GPS location a secret. Using Ghost Me, you never have to worry about unwanted 3rd-parties accessing your device's physical location. Utilizing developer features, Ghost Me can change your location once, or configure automatic switches for increased security
+Keep your GPS location a secret. Using Ghost Me, you never have to worry about unwanted 3rd-parties accessing your device's physical location. Ghost Me can change your location once, or you can configure automatic switches for increased security
 
-For businesses, Ghost Me can be used as a key tool for testing location-based features. Enable your developers to test out your app by connecting their real devices and changing their location to anywhere in the world.
 
 <p align="center">
   <a href="https://twitter.com/getghostme">
