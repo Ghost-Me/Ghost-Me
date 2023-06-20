@@ -37,7 +37,6 @@ Keep your GPS location a secret. Using Ghost Me, you never have to worry about u
   <a href="https://instagram.com/getghostme">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/static/v1?label=Stage&message=Beta&color=2BB4AB" />
   <br />
 </p>
 
