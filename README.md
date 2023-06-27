@@ -43,6 +43,6 @@ Keep your GPS location a secret. Using Ghost Me, you never have to worry about u
 # Features
 - Access geo-locked content and apps
 - Play location-based games
-- Reach more folk on location-based dating apps
+- Reach more people on location-based dating apps
 - Store your favorite locations for quick simulation access
-- Hide your location for increase security
+- Hide your location to increase personal security
