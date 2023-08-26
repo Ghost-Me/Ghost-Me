@@ -7,7 +7,7 @@
   </p>
   <h1 align="center"><b>Ghost Me</b></h1>
   <p align="center">
-  Hide your GPS Location
+Take back your virtual location. Set your iOS device's current location anywhere with just a few clicks.
     <br />
     <a href="https://ghostme.app"><strong>getghostme.com »</strong></a>
     <br />
@@ -21,7 +21,6 @@
     </a>
   </p>
 </p>
-Take back your virtual location. Set your iOS device's current location anywhere with just a few clicks.
 <br/>
 </p>
 
