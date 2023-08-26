@@ -27,22 +27,12 @@ Ghost Me is a desktop application designed to keep your GPS location hidden on i
 
 > NOTE: Ghost Me is under active development, most of the listed features are still experimental and subject to change.
 
-Keep your GPS location a secret. Using Ghost Me, you never have to worry about unwanted 3rd-parties accessing your device's physical location. Ghost Me can change your location once, or you can configure automatic switches for increased security
+Take back your virtual location. Set your iOS device's current location anywhere with just a few clicks.
 
 
-<p align="center">
-  <a href="https://twitter.com/getghostme">
-    <img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/getghostme">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-  </a>
-  <br />
 </p>
 
 # Features
-- Access geo-locked content and apps
 - Play location-based games
-- Reach more people on location-based dating apps
-- Store your favorite locations for quick simulation access
+- Access geo-locked content and apps
 - Hide your location to increase personal security
