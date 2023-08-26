@@ -9,7 +9,7 @@
   <p align="center">
 Take back your virtual location. Set your iOS device's current location anywhere with just a few clicks.
     <br />
-    <a href="https://ghostme.app"><strong>getghostme.com »</strong></a>
+    <a href="https://getghostme.com"><strong>getghostme.com »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Ghost-Me/GhostMe/releases" target="_blank">
