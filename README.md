@@ -24,7 +24,3 @@ Take back your virtual location. Set your iOS device's current location anywhere
 <br/>
 </p>
 
-# Features
-- Play location-based games
-- Access geo-locked content and apps
-- Hide your location to increase personal security
